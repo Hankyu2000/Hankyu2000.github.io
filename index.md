@@ -3,6 +3,8 @@ layout: page
 title: Welcome to my site
 ---
 
+# This site is still under construction. May contains error.
+
 ## About me　/　自己紹介
 Hankyu2000
 Just a student who does "Little()" programming  
