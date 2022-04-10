@@ -5,7 +5,7 @@ title: Welcome to my site
 
 ## About me　/　自己紹介
 Hankyu2000
-Just a student who does "Little()" programming
+Just a student who does "Little()" programming  
 少しだけプログラミングができる学生
 
 ### Mainly used language / 主に使う言語
@@ -29,4 +29,5 @@ Just a student who does "Little()" programming
 * Math (But I'm not good at) / 数学(好きなだけで得意とは言ってない)
 
 ### Subjects that I don't like / 嫌いな教科
-* PE (Why do they force me to run 3km almost every P.E. lesson in winter?) / 体育(なんで3kmも冬に走らされるんだ？)
+* PE (Why do they force me to run 3km almost every P.E. lesson in winter?) /  
+体育(なんで3kmも冬に走らされるんだ？)
