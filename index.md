@@ -8,7 +8,7 @@ title: Welcome to my site
 ## About me　/　自己紹介
 Hankyu2000
 Just a student who does "Little()" programming  
-少しだけプログラミングができる学生
+少しだけプログラミングができる留学(反実仮想)学生
 
 ### Mainly used language / 主に使う言語
 * Swift
@@ -33,3 +33,8 @@ Just a student who does "Little()" programming
 ### Subjects that I don't like / 嫌いな教科
 * PE (Why do they force me to run 3km almost every P.E. lesson in winter?) /  
 体育(なんで3kmも冬に走らされるんだ？)
+
+## About this site / このサイトについて
+つまらない記事を不定期かつガバガバ内容で書いていくサイトです。  
+多分読む価値はないと思いますよ。
+主に英語やプログラミングについて書いていこうと思います。
